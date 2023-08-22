@@ -8,12 +8,12 @@ For this first challenge, I:
 - Added an "alt" attribute to each icon
 - Adjusted semantics in logical order with appropriate tags in place of (div)
 > including (nav) (aside) (section) and (footer)
-- 
 - Changed individual classes to ids
 - Commented each change in html and css file
 - Created a Concise Website Title
 
 Screenshot:
 ![Alt text](image.png)
+
 Deployable Link:
 https://emk2473.github.io/hw1-code-refactor/
