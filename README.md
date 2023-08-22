@@ -8,9 +8,9 @@ For this first challenge, I:
 - Added an "alt" attribute to each icon
 - Adjusted semantics in logical order with appropriate tags in place of (div)
 > including (nav) (aside) (section) and (footer)
-- Changed individual classes to ids
 - Commented each change in html and css file
 - Created a Concise Website Title
+- Consolidated CSS Classes and IDs
 
 Screenshot:
 ![Alt text](image.png)
